@@ -206,5 +206,4 @@ public class Simulacion
 		int TA = (int) ((Math.pow(random, (1 / 1.2098)) * (15 - 3.9794)) + 3.9794) ;
 		return TA;
 	}
-
 }
